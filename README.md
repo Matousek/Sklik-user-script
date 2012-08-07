@@ -13,5 +13,4 @@ Google chrome:
 --------------
 
 1. Go to tools -> extends       					 /  Jděte na nástroje -> rozšíření
-2. Allow "mode for developers"   					 /  Povolte "Režim pro vývojáře"
-3. Drag Sklik.user.js to google chrome extends 		 /  Přetáhněte Sklik.user.js do rozšíření google chrome  
+2. Drag Sklik.user.js to google chrome extends 		 /  Přetáhněte Sklik.user.js do rozšíření google chrome  
