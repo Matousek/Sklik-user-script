@@ -5,7 +5,7 @@ This script edit page: https://www.sklik.cz/navrh-klicovych-slov for analytics k
 
 Tento script upravuje stránku https://www.sklik.cz/navrh-klicovych-slov pro analýzu klíčových slov.
 
-
+************************
 Installation / Instalace:
 ************************
 
